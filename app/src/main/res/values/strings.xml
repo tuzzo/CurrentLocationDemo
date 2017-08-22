@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CurrentLocationDemo</string>
+
+    <!-- activity_main.xml -->
+    <string name="get">Get location</string>
+    <string name="current">Current location is:</string>
+
+</resources>
